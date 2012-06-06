@@ -8,4 +8,4 @@ itself.
 # Usage #
 `python main.py <path>`
 
-If _<path>_ is not provided, the current directory is watched.
+If _path_ is not provided, the current directory is watched.
